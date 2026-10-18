@@ -1,0 +1,19 @@
+{
+  "name": "小日子記帳",
+  "short_name": "小日子",
+  "description": "簡單記錄收入、支出與資產",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#4caf50",
+  "lang": "zh-TW",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
